@@ -5,15 +5,18 @@ def loop_message_five_times(message)
   i = 0
   while i <5
   puts message
-  i+=1
+  i++
   end
 end
   
 
 
 
-def loop_message_n_times(message, )
-  
+def loop_message_n_times(message, num)
+  i = 0
+  while i < num
+  puts messgae 
+  i
 end
 
 
