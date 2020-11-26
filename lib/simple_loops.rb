@@ -22,7 +22,7 @@ end
 
 
 def output_array(array)
-  i = 5
+  i = 2
   while i >= 1  
   puts array[i]
   i-=1
