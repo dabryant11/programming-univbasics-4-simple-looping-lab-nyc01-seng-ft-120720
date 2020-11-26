@@ -16,7 +16,8 @@ def loop_message_n_times(message, num)
   i = 0
   while i < num
   puts messgae 
-  i
+  i+=1
+  end
 end
 
 
