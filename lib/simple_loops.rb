@@ -15,7 +15,7 @@ end
 def loop_message_n_times(message, num)
   i = 0
   while i < num
-  puts messgae 
+  puts message 
   i+=1
   end
 end
