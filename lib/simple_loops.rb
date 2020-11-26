@@ -22,10 +22,10 @@ end
 
 
 def output_array(array)
-  i = 0
-  while i < array.length 
+  i = 5
+  while i >= 1  
   puts array[i]
-  i+=1
+  i-=1
 end
 
 
