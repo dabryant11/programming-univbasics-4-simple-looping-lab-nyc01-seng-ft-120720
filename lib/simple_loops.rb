@@ -32,6 +32,7 @@ end
 
 def return_stirng_array
   i = 0 
+  new_array = []
   while i < array.length
   new_array.push(array[i].to_s)
   i += 1
