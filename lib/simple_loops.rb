@@ -26,6 +26,7 @@ def output_array(array)
   while i >= 1  
   puts array[i]
   i-=1
+  end
 end
 
 
