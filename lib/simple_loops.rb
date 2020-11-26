@@ -37,7 +37,7 @@ def return_stirng_array
   new_array.push(array[i].to_s)
   i += 1
   end
-puts new_array
+ new_array
 end
 
 
