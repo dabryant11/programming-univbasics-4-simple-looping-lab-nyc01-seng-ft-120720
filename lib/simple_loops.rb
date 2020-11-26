@@ -6,23 +6,23 @@ def loop_message_five_times(message)
   while i <5
   puts message
   i+=1
+  end
 end
+  
+
+
+
+def loop_message_n_times(message)
+  
 end
+
+
+def output_array(message)
+
+end
+
+
+def return_stirng_array
   
 
-
-
-# def loop_message_n_times(message)
-  
-# end
-
-
-# def output_array(message)
-
-# end
-
-
-# def return_stirng_array
-  
-
-# end
+end
